@@ -33,3 +33,30 @@ I used this project sample using HTML, CSS and Javascript.
 ![Screenshot (70)](https://user-images.githubusercontent.com/107309612/190072278-e69afbb0-8323-4164-838f-2bc113ea722e.png)
 
 ![Screenshot (71)](https://user-images.githubusercontent.com/107309612/190072286-64d4810f-eb85-41bc-8e57-b23561f2a9cd.png)
+
+
+# For Android
+
+## Home Page
+
+![Screenshot (87)](https://user-images.githubusercontent.com/107309612/190344958-2892c394-0fa7-478a-b344-31298b7a28a5.png)
+![Screenshot (82)](https://user-images.githubusercontent.com/107309612/190344967-5894e66d-2ac2-4f7b-94eb-f8d7220289e0.png)
+![Screenshot (83)](https://user-images.githubusercontent.com/107309612/190344970-fa43bb1c-b020-4f4f-9f02-fe4e41d6eb0c.png)
+![Screenshot (84)](https://user-images.githubusercontent.com/107309612/190344974-70ef6f98-42be-4f46-9597-34f8883f5e17.png)
+![Screenshot (85)](https://user-images.githubusercontent.com/107309612/190344983-86e69f06-ea15-47c1-9329-9ca5b4df4496.png)
+![Screenshot (86)](https://user-images.githubusercontent.com/107309612/190344990-63b8ab19-6679-44c1-93e4-a05a72c81db8.png)
+
+
+## Feature Page 
+
+![Screenshot (88)](https://user-images.githubusercontent.com/107309612/190345126-c1595b5e-03fa-4e47-bb6f-c6cc39dd66d9.png)
+![Screenshot (89)](https://user-images.githubusercontent.com/107309612/190345133-8e7701c9-f8ac-462e-9df9-25dfd3b998b3.png)
+![Screenshot (90)](https://user-images.githubusercontent.com/107309612/190345140-631a409a-2506-4af9-ba3f-054b12d889a2.png)
+
+
+## Documentation Page
+
+![Screenshot (91)](https://user-images.githubusercontent.com/107309612/190345297-ccedf71a-55cc-44d6-8c34-2c6706481931.png)
+![Screenshot (93)](https://user-images.githubusercontent.com/107309612/190345286-11483164-a960-42ad-8c3f-1a67834fb5f9.png)
+![Screenshot (92)](https://user-images.githubusercontent.com/107309612/190345266-370cc06c-575a-41d8-b29f-caee9adefafb.png)
+
